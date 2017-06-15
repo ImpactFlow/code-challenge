@@ -58,5 +58,5 @@ Create an embeddable checkout widget that consumes the following JSON string:
 
 When you are finished, push your solution to a GitHub repo. **Your README should include:**
 
-* an example of how to use your widget
+* an example of how to use your widget and any instructions necessary to consume your widget
 * a description of key decisions that you made to come up with your solution
