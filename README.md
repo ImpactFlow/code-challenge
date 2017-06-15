@@ -1,4 +1,4 @@
-#Code Challenge
-###This repository contains the code challenges for ImpactFlow.
+# Code Challenge
+### This repository contains the code challenges for ImpactFlow.
 [Front-End Challenge](front-end-challenge.md)
 
